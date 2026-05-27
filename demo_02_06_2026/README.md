@@ -24,20 +24,13 @@ Two separate causes combined to produce this effect:
 
 ### Before / After
 
-<table>
-  <tr>
-    <th align="center">⚠️ Before</th>
-    <th align="center">✅ After</th>
-  </tr>
-  <tr>
-    <td>
-      <video src="files/5355_before.mp4" controls muted loop playsinline width="320"></video>
-    </td>
-    <td>
-      <video src="files/5355_after.mp4" controls muted loop playsinline width="320"></video>
-    </td>
-  </tr>
-</table>
+**⚠️ Before**
+
+<video src="files/5355_before.mp4" controls muted loop playsinline width="480"></video>
+
+**✅ After**
+
+<video src="files/5355_after.mp4" controls muted loop playsinline width="480"></video>
 
 ---
 
