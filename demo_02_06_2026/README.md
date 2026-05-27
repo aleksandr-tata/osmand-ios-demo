@@ -26,11 +26,15 @@ Two separate causes combined to produce this effect:
 
 **⚠️ Before**
 
-<video src="files/5355_before.mp4" controls muted loop playsinline width="480"></video>
+<details><summary>Show video</summary>
+<video src="https://github.com/user-attachments/assets/441b5a21-c6b1-44e9-bede-c9deb4af8060"></video>
+</details>
 
 **✅ After**
 
-<video src="files/5355_after.mp4" controls muted loop playsinline width="480"></video>
+<details><summary>Show video</summary>
+<video src="https://github.com/user-attachments/assets/1640e67f-8663-4559-bbec-b3208e0d0e9a"></video>
+</details>
 
 ---
 
