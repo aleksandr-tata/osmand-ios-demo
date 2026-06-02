@@ -1,6 +1,6 @@
 # Demo — 2 June 2026
 
-> **OsmAnd iOS** · Sprint fixes · 1 issue resolved
+> **OsmAnd iOS** · Sprint fixes · 2 issues resolved
 
 ---
 
@@ -34,6 +34,22 @@ Two separate causes combined to produce this effect:
 
 <details><summary>Show video</summary>
 <video src="https://github.com/user-attachments/assets/1640e67f-8663-4559-bbec-b3208e0d0e9a"></video>
+</details>
+
+---
+
+## #3241 — Show touches in Development plugin
+
+**Task:** [#3241](https://github.com/osmandapp/OsmAnd-Issues/issues/3241) · **PR:** [#5436](https://github.com/osmandapp/OsmAnd-iOS/pull/5436)
+
+### What was added
+
+Added a **Show touches** toggle to the Appearance group of the OsmAnd Development plugin. When enabled, a component displays visual touch indicators on the screen — every touch is highlighted in real time, making it easier for QA and testing teams to demonstrate and report interactions.
+
+### Result
+
+<details><summary>Show video</summary>
+<video src="https://github.com/user-attachments/assets/aeec3aef-3914-4d64-b5e8-dda2baf569a3"></video>
 </details>
 
 ---
